@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\bin\Debug\netcoreapp2.0\ProducatorConsumator.deps.json
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\bin\Debug\netcoreapp2.0\ProducatorConsumator.runtimeconfig.json
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\bin\Debug\netcoreapp2.0\ProducatorConsumator.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\bin\Debug\netcoreapp2.0\ProducatorConsumator.dll
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\bin\Debug\netcoreapp2.0\ProducatorConsumator.pdb
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\obj\Debug\netcoreapp2.0\ProducatorConsumator.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\obj\Debug\netcoreapp2.0\ProducatorConsumator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\obj\Debug\netcoreapp2.0\ProducatorConsumator.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\obj\Debug\netcoreapp2.0\ProducatorConsumator.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\obj\Debug\netcoreapp2.0\ProducatorConsumator.dll
+C:\Users\Alex\source\repos\ProducatorConsumator\ProducatorConsumator\obj\Debug\netcoreapp2.0\ProducatorConsumator.pdb
